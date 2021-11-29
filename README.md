@@ -1,2 +1,2 @@
-# js.services.shared
+# services.shared
 Shared library for JavaScript FunctionApps
